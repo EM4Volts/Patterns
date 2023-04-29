@@ -7,6 +7,7 @@ google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "PATTERNS"
+favicon_ico: "favicon.ico" 
 subtitle: ""
 author: "EM4V"
 header:
